@@ -1,7 +1,7 @@
 /*
-Description: Method to find the Factorial of Number using Recursion
-Parameter: number
-return: number
+Description: Method to Sort My Array
+Parameter: Array of Integer
+return: Array of Integer
 */
 function sortMyArray(arr) {
     for (let i = 0; i < arr.length; i++) {
