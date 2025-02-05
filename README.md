@@ -43,7 +43,7 @@ While this repo is primarily for my personal learning, I'm open to feedback, sug
 ## 📫 Connect with Me
 
 Let's connect and grow together! You can reach me at:
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/sayannaha/))
+- [LinkedIn](https://www.linkedin.com/in/sayannaha/)
 - Email: officialsnaha@gmail.com
 
 ---
