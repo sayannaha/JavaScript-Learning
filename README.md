@@ -44,7 +44,7 @@ While this repo is primarily for my personal learning, I'm open to feedback, sug
 
 Let's connect and grow together! You can reach me at:
 - [LinkedIn](https://www.linkedin.com/in/sayannaha/)
-- Email: officialsnaha@gmail.com
+- [Email](officialsnaha@gmail.com)
 
 ---
 
